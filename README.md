@@ -6,4 +6,4 @@ GraphQL is hard to establish end-to-end typesafety. I believe GraphQL is really 
 
 I would use GraphQL for complex and deep API trees. The support for GraphQL is lovely with plugins from GraphQL Yoga, but there's a lot of connections and code generation that needs to be manually performed.
 
-Big shoutout to [https://www.prisma.io/blog/e2e-type-safety-graphql-react-1-I2GxIfxkSZ](E2E Tutorial by Prisma)
+Big shoutout to [E2E Tutorial by Prisma](https://www.prisma.io/blog/e2e-type-safety-graphql-react-1-I2GxIfxkSZ)
